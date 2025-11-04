@@ -40,7 +40,7 @@ public class MainApp {
             "AmaZulu",
             "Polokwane City",
             "Black Leopards",
-            "University of Pretoria"
+            "Tuks"
     );
 
     // GUI components
